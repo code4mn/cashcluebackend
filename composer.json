@@ -1,0 +1,11 @@
+{
+	"require": {
+		"firebase/php-jwt": "^5.2",
+		"paytm/paytmchecksum": "^1.1"
+	},
+	"autoload": {
+		"psr-4": {
+			"paytm\\paytmchecksum\\": "paytmchecksum/"
+		}
+	}
+}
